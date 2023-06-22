@@ -1,0 +1,1 @@
+(()=>{"use strict";window.addEventListener("load",(function(){setTimeout((function(){var t=document.getElementById("hello-world");t&&(t.textContent="2")}),1e3)}))})();
